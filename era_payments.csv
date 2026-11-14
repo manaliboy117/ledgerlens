@@ -1,0 +1,13 @@
+Payment_Ref,Claim_ID,Payer,Payer_Payment
+EFT-001,CL001,Medicare,4500
+EFT-002,CL003,Aetna,6000
+EFT-003,CL004,UnitedHealthcare,7000
+EFT-004,CL006,Aetna,5000
+EFT-005,CL009,UnitedHealthcare,6000
+EFT-006,CL010,Medicare,7500
+EFT-007,CL012,Cigna,7000
+EFT-008,CL013,Medicaid,4500
+EFT-009,CL015,Medicare,4000
+EFT-010,CL017,Cigna,8500
+EFT-011,CL019,UnitedHealthcare,5000
+EFT-012,CL020,Medicare,8000

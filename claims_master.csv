@@ -1,0 +1,21 @@
+Claim_ID,Payer,Billed_Amount,Paid_Amount,Status,Denial_Reason,Days_Outstanding,Outstanding_AR,Allowed_Amount,Patient_Responsibility,Expected_Payer_Payment,Ageing_Bucket
+CL001,Medicare,5000,4500,Paid,None,15,500,4000.0,400.0,3600.0,0-30 Days
+CL002,Medicaid,8000,0,Denied,Eligibility,45,8000,6400.0,640.0,5760.0,31-60 Days
+CL003,Aetna,6000,6000,Paid,None,20,0,4800.0,480.0,4320.0,0-30 Days
+CL004,UnitedHealthcare,10000,7000,Partial,None,60,3000,8000.0,800.0,7200.0,31-60 Days
+CL005,Medicare,4000,0,Denied,Coding,75,4000,3200.0,320.0,2880.0,61-90 Days
+CL006,Aetna,7000,5000,Partial,None,35,2000,5600.0,560.0,5040.0,31-60 Days
+CL007,Cigna,5500,0,Denied,Authorization,90,5500,4400.0,440.0,3960.0,61-90 Days
+CL008,Medicaid,9000,0,Pending,None,25,9000,7200.0,720.0,6480.0,0-30 Days
+CL009,UnitedHealthcare,6500,6000,Partial,None,40,500,5200.0,520.0,4680.0,31-60 Days
+CL010,Medicare,7500,7500,Paid,None,10,0,6000.0,600.0,5400.0,0-30 Days
+CL011,Aetna,4500,0,Denied,Duplicate Claim,65,4500,3600.0,360.0,3240.0,61-90 Days
+CL012,Cigna,8000,7000,Partial,None,30,1000,6400.0,640.0,5760.0,0-30 Days
+CL013,Medicaid,6000,4500,Partial,None,50,1500,4800.0,480.0,4320.0,31-60 Days
+CL014,UnitedHealthcare,9500,0,Denied,Eligibility,100,9500,7600.0,760.0,6840.0,90+ Days
+CL015,Medicare,5000,4000,Partial,None,55,1000,4000.0,400.0,3600.0,31-60 Days
+CL016,Aetna,7000,0,Pending,None,20,7000,5600.0,560.0,5040.0,0-30 Days
+CL017,Cigna,8500,8500,Paid,None,12,0,6800.0,680.0,6120.0,0-30 Days
+CL018,Medicaid,4000,0,Denied,Coding,85,4000,3200.0,320.0,2880.0,61-90 Days
+CL019,UnitedHealthcare,6500,5000,Partial,None,45,1500,5200.0,520.0,4680.0,31-60 Days
+CL020,Medicare,9000,8000,Paid,None,18,1000,7200.0,720.0,6480.0,0-30 Days
